@@ -1,1 +1,0 @@
-Basic 2D cellular automaton
